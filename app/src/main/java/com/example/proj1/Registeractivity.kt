@@ -39,7 +39,7 @@ class Registeractivity : AppCompatActivity() {
 
                 Toast.makeText(
                     this,
-                    "username is  ${username} and password is  ${pwd} and phone no is ${phone} with ${v1} , ${v2} is ${string}",
+                    "username is  ${username} and password is  ${pwd} and phone number is ${phone} with ${v1} , ${v2} is ${string} candidate",
                     Toast.LENGTH_LONG
                 ).show()
 
